@@ -45,5 +45,5 @@ public class LargestSmallest {
             System.out.printf("%d is the smallest", e);
         }
     }
-       input.close();
+      
 }
